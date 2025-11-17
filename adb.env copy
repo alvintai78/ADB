@@ -1,0 +1,15 @@
+ADB_WORKSPACE_URL=
+ADB_WAREHOUSE_ID=
+ADB_ACCOUNT_ID=
+ADB_ACCOUNT_URL=https://accounts.azuredatabricks.net
+ADB_TENANT_ID=
+ADB_CLIENT_ID=
+ADB_CLIENT_SECRET=
+
+ADB_VIEW_CATALOG = 
+ADB_VIEW_SCHEMA  = access
+ADB_VIEW_PREFIX  = system_access_
+
+
+
+

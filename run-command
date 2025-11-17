@@ -1,0 +1,1 @@
+python manage_uc_workspaces.py --sync-system-access-views
